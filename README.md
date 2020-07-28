@@ -1,4 +1,8 @@
-### Hi there 👋
+![Bernardo's github stats](https://github-readme-stats.vercel.app/api?username=bernardolm&count_private=true&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolm&count_private=true&show_icons=true)
+
+<!--### Hi there 👋-->
 
 <!--
 **bernardolm/bernardolm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
