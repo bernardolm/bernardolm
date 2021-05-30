@@ -8,6 +8,8 @@
 
 ![](https://github.com/egonelbre/gophers/blob/master/.thumb/animation/2bit-sprite/demo.gif)
 
+![Snake animation](https://github.com/bernardolm/bernardolm/blob/output/github-contribution-grid-snake.svg)
+
 *Gopher image by [egonelbre](https://github.com/egonelbre/)*
 
 <!--### Hi there 👋-->
@@ -26,4 +28,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
