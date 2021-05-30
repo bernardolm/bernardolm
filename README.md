@@ -16,12 +16,11 @@
 
 [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou)
 
----
 
+
+<!--
 ![Snake animation](https://github.com/bernardolm/bernardolm/blob/output/github-contribution-grid-snake.svg)
-
-
-
+-->
 
 
 <!--
