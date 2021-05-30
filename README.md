@@ -6,9 +6,9 @@
 
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers)
 
-![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars)
 
 [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm)
 
