@@ -1,15 +1,3 @@
-![Bernardo Loureiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardolm&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&border_radius=10)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolm&layout=compact&theme=nightowl&border_radius=10&langs_count=10&card_width=446)
-
----
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernardolm&theme=nightowl)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernardolm)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernardolm)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C567%20hrs%2054%20mins-blue)
 
@@ -103,6 +91,12 @@ Shell                    3 repos             ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
+
+![Bernardo Loureiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardolm&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolm&theme=nightowl&langs_count=99)
+
+----
 
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers)
 
