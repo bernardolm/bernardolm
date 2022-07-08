@@ -2,7 +2,12 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolm&layout=compact&theme=gotham&border_radius=10&langs_count=10&card_width=446)
 
+---
+
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bernardolm&theme=gotham)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
