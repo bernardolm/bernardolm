@@ -1,15 +1,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers) ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars) [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm) [![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm) [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou) [![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C602%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--16%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 641 Contributions in the Year 2022
+> 🏆 642 Contributions in the Year 2022
  > 
-> 📦 11.6 kB Used in GitHub's Storage 
+> 📦 11.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,21 +20,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
-🌆 Daytime    178 commits    █████████░░░░░░░░░░░░░░░░   38.95% 
-🌃 Evening    220 commits    ████████████░░░░░░░░░░░░░   48.14% 
-🌙 Night      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.1%
+🌞 Morning    22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
+🌆 Daytime    179 commits    █████████░░░░░░░░░░░░░░░░   39.08% 
+🌃 Evening    220 commits    ████████████░░░░░░░░░░░░░   48.03% 
+🌙 Night      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.08%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.04% 
-Tuesday      73 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.97% 
-Wednesday    156 commits    ████████░░░░░░░░░░░░░░░░░   34.14% 
-Thursday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.32% 
-Friday       74 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Saturday     16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.5% 
+Monday       55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
+Tuesday      73 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.94% 
+Wednesday    157 commits    ████████░░░░░░░░░░░░░░░░░   34.28% 
+Thursday     70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.28% 
+Friday       74 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.16% 
+Saturday     16 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
 Sunday       13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84%
 
 ```
@@ -46,13 +46,13 @@ Sunday       13 commits     ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 hrs               █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Google Calendar          3 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Unknown OS               3 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -69,7 +69,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2022-08-10 18:52:22 UTC
+ Last Updated on 2022-08-12 18:53:17 UTC
 <!--END_SECTION:waka-->
 
 ---
