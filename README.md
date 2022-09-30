@@ -1,13 +1,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers) ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars) [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm) [![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm) [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou) [![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C749%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C750%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--16%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 697 Contributions in the Year 2022
+> 🏆 698 Contributions in the Year 2022
  > 
 > 📦 11.8 kB Used in GitHub's Storage 
  > 
@@ -20,22 +20,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.04% 
-🌆 Daytime    184 commits    ███████████░░░░░░░░░░░░░░   46.35% 
-🌃 Evening    159 commits    ██████████░░░░░░░░░░░░░░░   40.05% 
-🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
+🌞 Morning    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
+🌆 Daytime    185 commits    ███████████░░░░░░░░░░░░░░   46.48% 
+🌃 Evening    159 commits    ██████████░░░░░░░░░░░░░░░   39.95% 
+🌙 Night      34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56% 
-Tuesday      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.61% 
-Wednesday    145 commits    █████████░░░░░░░░░░░░░░░░   36.52% 
-Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
-Friday       70 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.63% 
-Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.54% 
-Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.53%
+Monday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
+Tuesday      58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
+Wednesday    145 commits    █████████░░░░░░░░░░░░░░░░   36.43% 
+Thursday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
+Friday       70 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.59% 
+Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.53% 
+Sunday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.52%
 
 ```
 
@@ -46,13 +46,13 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    17 hrs 30 mins      █████████████████████████   100.0%
+Other                    12 hrs              █████████████████████████   100.0%
 
 🔥 Editors: 
-Google Calendar          17 hrs 30 mins      █████████████████████████   100.0%
+Google Calendar          12 hrs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Unknown OS               17 hrs 30 mins      █████████████████████████   100.0%
+Unknown OS               12 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -69,7 +69,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 2022-09-29 19:01:58 UTC
+ Last Updated on 2022-09-30 19:02:22 UTC
 <!--END_SECTION:waka-->
 
 ---
