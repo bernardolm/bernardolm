@@ -1,15 +1,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers) ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars) [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm) [![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm) [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou) [![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C861%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C863%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--13%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 767 Contributions in the Year 2022
+> 🏆 768 Contributions in the Year 2022
  > 
-> 📦 13.0 kB Used in GitHub's Storage 
+> 📦 13.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -46,20 +46,20 @@ Sunday       18 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    13 hrs 45 mins      ██████████████████░░░░░░░   74.59% 
-Go                       2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
-Python                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
-Makefile                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03%
+Other                    13 hrs 45 mins      ████████████████████░░░░░   80.08% 
+Go                       1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.02% 
+Bash                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.37% 
+Python                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
 
 🔥 Editors: 
-Browser                  9 hrs 9 mins        ████████████░░░░░░░░░░░░░   49.65% 
-VS Code                  5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   27.31% 
-Google Calendar          4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   23.04%
+Browser                  9 hrs 9 mins        █████████████░░░░░░░░░░░░   53.31% 
+Google Calendar          4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.73% 
+VS Code                  3 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   21.95%
 
 💻 Operating System: 
-Linux                    14 hrs 11 mins      ███████████████████░░░░░░   76.96% 
-Unknown OS               4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   23.04%
+Linux                    12 hrs 55 mins      ██████████████████░░░░░░░   75.27% 
+Unknown OS               4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.73%
 
 ```
 
@@ -76,7 +76,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-10-30 18:51:43 UTC
+ Last Updated on 2022-10-31 18:56:07 UTC
 <!--END_SECTION:waka-->
 
 ---
