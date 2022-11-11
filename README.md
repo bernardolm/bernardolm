@@ -1,15 +1,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers) ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars) [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm) [![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm) [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou) [![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C916%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C921%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--16%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 810 Contributions in the Year 2022
+> 🏆 813 Contributions in the Year 2022
  > 
-> 📦 13.6 kB Used in GitHub's Storage 
+> 📦 11.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,8 +20,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
-🌆 Daytime    203 commits    ████████████░░░░░░░░░░░░░   48.92% 
+🌞 Morning    13 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.13% 
+🌆 Daytime    204 commits    ████████████░░░░░░░░░░░░░   49.16% 
 🌃 Evening    163 commits    █████████░░░░░░░░░░░░░░░░   39.28% 
 🌙 Night      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.43%
 
@@ -30,10 +30,10 @@
 
 ```text
 Monday       33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
-Tuesday      85 commits     █████░░░░░░░░░░░░░░░░░░░░   20.48% 
+Tuesday      84 commits     █████░░░░░░░░░░░░░░░░░░░░   20.24% 
 Wednesday    143 commits    ████████░░░░░░░░░░░░░░░░░   34.46% 
-Thursday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.33% 
-Friday       65 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
+Thursday     50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.05% 
+Friday       63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
 Saturday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.51% 
 Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
 
@@ -46,20 +46,19 @@ Sunday       15 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    9 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   30.19% 
-Bash                     7 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.13% 
-Go                       3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
-YAML                     3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.84% 
-Text                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.69%
+Bash                     9 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.64% 
+Other                    8 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.8% 
+YAML                     4 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+Go                       3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.02% 
+Text                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
 
 🔥 Editors: 
-VS Code                  25 hrs 13 mins      ████████████████████░░░░░   80.28% 
-Google Calendar          4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Browser                  2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.98%
+VS Code                  27 hrs 43 mins      ██████████████████████░░░   88.09% 
+Google Calendar          3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91%
 
 💻 Operating System: 
-Linux                    27 hrs 24 mins      █████████████████████░░░░   87.27% 
-Unknown OS               4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.73%
+Linux                    27 hrs 43 mins      ██████████████████████░░░   88.09% 
+Unknown OS               3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91%
 
 ```
 
@@ -76,7 +75,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2022-11-10 18:51:14 UTC
+ Last Updated on 2022-11-11 18:53:45 UTC
 <!--END_SECTION:waka-->
 
 ---
