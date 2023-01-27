@@ -1,13 +1,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers) ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars) [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm) [![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm) [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou) [![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C135%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C138%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 44 Contributions in the Year 2023
+> 🏆 45 Contributions in the Year 2023
  > 
 > 📦 13.3 kB Used in GitHub's Storage 
  > 
@@ -30,9 +30,9 @@
 
 ```text
 Monday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.27% 
-Tuesday      79 commits     █████░░░░░░░░░░░░░░░░░░░░   21.35% 
+Tuesday      78 commits     █████░░░░░░░░░░░░░░░░░░░░   21.08% 
 Wednesday    138 commits    █████████░░░░░░░░░░░░░░░░   37.3% 
-Thursday     36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.73% 
+Thursday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 Friday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 Saturday     27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.3% 
 Sunday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.05%
@@ -46,19 +46,19 @@ Sunday       15 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    9 hrs 15 mins       █████████████████████░░░░   85.89% 
-Bash                     1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.55% 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+Other                    10 hrs 15 mins      ████████████████████░░░░░   80.36% 
+Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.72% 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-Google Calendar          9 hrs 15 mins       █████████████████████░░░░   85.83% 
-VS Code                  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
+Google Calendar          10 hrs 15 mins      ████████████████████░░░░░   80.31% 
+VS Code                  2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69%
 
 💻 Operating System: 
-Unknown OS               9 hrs 15 mins       █████████████████████░░░░   85.83% 
-Linux                    1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.17%
+Unknown OS               10 hrs 15 mins      ████████████████████░░░░░   80.31% 
+Linux                    2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   19.69%
 
 ```
 
@@ -75,7 +75,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-01-26 18:43:14 UTC
+ Last Updated on 2023-01-27 18:42:34 UTC
 <!--END_SECTION:waka-->
 
 ---
