@@ -1,15 +1,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers) ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars) [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm) [![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm) [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou) [![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C202%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C205%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 13.3 kB Used in GitHub's Storage 
+> 📦 13.4 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2023
+> 🏆 90 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,19 +21,19 @@
 
 ```text
 🌞 Morning                90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-🌆 Daytime                674 commits         ███████████░░░░░░░░░░░░░░   42.79 % 
-🌃 Evening                625 commits         ██████████░░░░░░░░░░░░░░░   39.68 % 
-🌙 Night                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+🌆 Daytime                675 commits         ███████████░░░░░░░░░░░░░░   42.83 % 
+🌃 Evening                625 commits         ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌙 Night                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Tuesday                  293 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-Wednesday                460 commits         ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-Thursday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Friday                   230 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-Saturday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Monday                   204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Tuesday                  294 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+Wednesday                460 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+Thursday                 191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Friday                   230 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Saturday                 99 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 Sunday                   98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 ```
 
@@ -44,13 +44,13 @@ Sunday                   98 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    19 hrs 15 mins      █████████████████████████   100.00 % 
+Other                    16 hrs 15 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Google Calendar          19 hrs 15 mins      █████████████████████████   100.00 % 
+Google Calendar          16 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Unknown OS               19 hrs 15 mins      █████████████████████████   100.00 % 
+Unknown OS               16 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -66,7 +66,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2023-03-14 18:49:16 UTC
+ Last Updated on 2023-03-15 18:39:30 UTC
 <!--END_SECTION:waka-->
 
 ---
