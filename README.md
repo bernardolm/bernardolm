@@ -1,7 +1,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers) ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars) [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm) [![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm) [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou) [![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C240%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C246%20hrs%2056%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -9,7 +9,7 @@
 
 > 📦 14.2 kB Used in GitHub's Storage 
  > 
-> 🏆 131 Contributions in the Year 2023
+> 🏆 138 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -21,20 +21,20 @@
 
 ```text
 🌞 Morning                90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-🌆 Daytime                694 commits         ███████████░░░░░░░░░░░░░░   43.48 % 
-🌃 Evening                626 commits         ██████████░░░░░░░░░░░░░░░   39.22 % 
+🌆 Daytime                695 commits         ███████████░░░░░░░░░░░░░░   43.52 % 
+🌃 Evening                626 commits         ██████████░░░░░░░░░░░░░░░   39.20 % 
 🌙 Night                  186 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Tuesday                  297 commits         █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
-Wednesday                463 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-Thursday                 194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Friday                   233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Monday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Tuesday                  297 commits         █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Wednesday                463 commits         ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Thursday                 194 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+Friday                   233 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 Saturday                 102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Sunday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+Sunday                   101 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
 
 
@@ -44,18 +44,19 @@ Sunday                   101 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Other                    13 hrs 10 mins      ██████████████████████░░░   87.73 % 
-Markdown                 1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Other                    10 hrs 47 mins      ██████████████████░░░░░░░   71.54 % 
+Markdown                 4 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.58 % 
 Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Google Calendar          11 hrs 45 mins      ████████████████████░░░░░   78.27 % 
-VS Code                  3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Google Calendar          9 hrs 15 mins       ███████████████░░░░░░░░░░   61.36 % 
+VS Code                  5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
 
 💻 Operating System: 
-Unknown OS               11 hrs 45 mins      ████████████████████░░░░░   78.27 % 
-Linux                    3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Unknown OS               9 hrs 15 mins       ███████████████░░░░░░░░░░   61.36 % 
+Linux                    5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.64 % 
 ```
 
 **I Mostly Code in Go** 
@@ -71,7 +72,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-04-03 18:41:11 UTC
+ Last Updated on 2023-04-04 18:37:30 UTC
 <!--END_SECTION:waka-->
 
 ---
