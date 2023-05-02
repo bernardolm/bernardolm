@@ -9,7 +9,7 @@ Do, Do Right, Do Better
 
 <p style="border: 100px">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=angular,arduino,bash,bootstrap,cs,cmake,docker,dotnet,flask,git,github,go,grafana,gtk,gulp,html,jenkins,jquery,linux,lua,md,mongodb,mysql,nodejs,php,postgres,postman,py,rabbitmq,rails,raspberrypi,redis,regex,ruby,sqlite,stackoverflow,sketchup,vscode" />
+<img src="https://skillicons.dev/icons?theme=dark&i=angular,arduino,bash,cs,cmake,docker,dotnet,flask,git,github,go,grafana,gtk,html,jenkins,jquery,linux,lua,md,mongodb,mysql,nodejs,php,postgres,py,rabbitmq,rails,raspberrypi,redis,regex,ruby,sqlite,stackoverflow,sketchup,vscode" />
 </a>
 <p/>
 
