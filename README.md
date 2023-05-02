@@ -28,8 +28,6 @@
   <img src="https://skillicons.dev/icons?i=angular,arduino,bash,bootstrap,cs,cmake,docker,dotnet,flask,git,github,go,grafana,gtk,gulp,html,jenkins,jquery,linux,lua,md,mongodb,mysql,nodejs,php,postgres,postman,py,rabbitmq,rails,raspberrypi,redis,regex,ruby,sqlite,stackoverflow,sketchup,vscode" />
 </a>
 
-<hr />
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
