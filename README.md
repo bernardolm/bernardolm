@@ -79,15 +79,7 @@ Makefile                 3 repos             ██░░░░░░░░░�
 PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/bernardolm/bernardolm/master/assets/bar_graph.png)
-
-
- Last Updated on 2023-05-05 16:21:28 UTC
+Last Updated on 2023-05-05 16:21:28 UTC
 <!--END_SECTION:waka-->
 
 ---
