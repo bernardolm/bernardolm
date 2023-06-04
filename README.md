@@ -1,4 +1,4 @@
-Do, Do Right, Do Better
+
 
 
 
@@ -28,7 +28,7 @@ Do, Do Right, Do Better
  > 
 > 💼 Opted to Hire
  > 
-> 📜 28 Public Repositories 
+> 📜 28 Public Repositories
  > 
 > 🔑 2 Private Repositories 
  > 
