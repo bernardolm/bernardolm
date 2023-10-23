@@ -87,4 +87,4 @@ HTML                     1 repo              █░░░░░░░░░░�
  
 ![Bernardo Loureiro's GitHub stats](https://github-readme-stats-three-ruddy-94.vercel.app/api?hide_border=true&username=bernardolm&show_icons=true&theme=transparent&include_all_commits=true&count_private=true#gh-dark-mode-only)
 
-![Most Used Languages](https://github-readme-stats-three-ruddy-94.vercel.app/api/top-langs/?hide_border=true&username=bernardolm&theme=transparent&langs_count=10github-readme-stats-three-ruddy-94dark-mode-only)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=bernardolm&langs_count=10&theme=transparent#gh-dark-mode-only)
