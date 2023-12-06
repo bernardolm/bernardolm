@@ -1,14 +1,11 @@
-[![](https://ga-beacon.appspot.com/G-EJYL08EQR8/welcome-page?pixel)](https://github.com/igrigorik/ga-beacon)
- 
-![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers) ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars) [![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm) [![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm) [![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou) [![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars) [![wakatime](https://wakatime.com/badge/user/186868b7-2443-4b6b-ae40-3d29d342e88e.svg)](https://wakatime.com/@186868b7-2443-4b6b-ae40-3d29d342e88e)
-
-<p style="border: 100px">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?theme=dark&i=angular,arduino,bash,cs,cmake,docker,dotnet,flask,git,github,go,grafana,gtk,html,jenkins,jquery,linux,lua,md,mongodb,mysql,nodejs,php,postgres,py,rabbitmq,rails,raspberrypi,redis,regex,ruby,sqlite,stackoverflow,sketchup,vscode" />
+<img src="https://skillicons.dev/icons?theme=dark&i=bash,docker,git,go,linux,mysql,php,postgres,py,rabbitmq,redis,regex" />
 </a>
-<p/>
 
+---
+ 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C663%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -78,11 +75,25 @@ HTML                     1 repo              █░░░░░░░░░░�
 
  Last Updated on 2023-12-05 18:38:15 UTC
 <!--END_SECTION:waka-->
-
+ 
 ---
+ 
+![bernardolm's Stats](https://github-readme-stats.vercel.app/api?username=bernardolm&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+
+![bernardolm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolm&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ![bernardolm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardolm&theme=dracula&hide_border=true)
 
-![Bernardo Loureiro's GitHub stats](https://github-readme-stats-three-ruddy-94.vercel.app/api?hide_border=true&username=bernardolm&show_icons=true&theme=transparent&include_all_commits=true&count_private=true#gh-dark-mode-only)
+---
+ 
+![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=bernardolm&langs_count=10&theme=transparent#gh-dark-mode-only)
+![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars)
+
+[![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm)
+
+[![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm)
+
+[![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou)
+
+[![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
