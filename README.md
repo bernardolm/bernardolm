@@ -3,6 +3,16 @@
 </a>
 
 ---
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardolm&theme=prussian)
+
+![bernardolm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardolm&theme=prussian&hide_border=true)
+ 
+![bernardolm's Stats](https://github-readme-stats.vercel.app/api?username=bernardolm&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+
+![bernardolm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolm&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+
+---
  
 <!--START_SECTION:waka-->
 
@@ -77,15 +87,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
  
 ---
- 
-![bernardolm's Stats](https://github-readme-stats.vercel.app/api?username=bernardolm&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![bernardolm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolm&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
-![bernardolm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardolm&theme=dracula&hide_border=true)
-
----
- 
 ![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers)
 
 ![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars)
