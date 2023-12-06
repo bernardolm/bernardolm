@@ -80,7 +80,9 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ---
- 
+
+![bernardolm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardolm&theme=dracula&hide_border=true)
+
 ![Bernardo Loureiro's GitHub stats](https://github-readme-stats-three-ruddy-94.vercel.app/api?hide_border=true&username=bernardolm&show_icons=true&theme=transparent&include_all_commits=true&count_private=true#gh-dark-mode-only)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide_border=true&username=bernardolm&langs_count=10&theme=transparent#gh-dark-mode-only)
