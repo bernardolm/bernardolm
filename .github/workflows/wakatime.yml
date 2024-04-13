@@ -30,6 +30,6 @@ jobs:
           SHOW_TIMEZONE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_UPDATED_DATE: "True"
+          SYMBOL_VERSION: 2
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
-          IGNORED_REPOS: "strava-box,music-box,devdns,go-csv-tag,simple-db-migrate-docker"
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
