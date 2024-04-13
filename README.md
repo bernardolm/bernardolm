@@ -3,17 +3,32 @@
 </a>
 
 ---
+<!--
+<div style="float: left; clear: both; width: 100%">
+<img src="https://wakatime.com/share/@bernardolm/9c6e2026-64dd-4d46-ab67-b2418fde0719.svg" width="33%" />
+<img src="https://wakatime.com/share/@bernardolm/eebaef70-6b9a-419f-8ded-ba9319df5ae0.svg" width="33%" />
+<img src="https://wakatime.com/share/@bernardolm/befb5447-0866-409b-9617-e80b9666454b.svg" width="33%" />
+</div>
+-->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardolm&theme=prussian)
+<!--bernardolm/?-->
+![Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bernardolm&theme=city_lights)
 
-![bernardolm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=bernardolm&theme=prussian&hide_border=true)
- 
-![bernardolm's Stats](https://github-readme-stats.vercel.app/api?username=bernardolm&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+<!--bernardolm/github-readme-stats - GitHub Stats Card-->
+![GitHub Stats Card](https://bernardolm-github-readme-stats.vercel.app/api?card_width=700&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=city_lights&username=bernardolm)
 
-![bernardolm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardolm&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+<!--bernardolm/github-readme-streak-stats- ->
+![Streak](https://github-com-bernardolm-github-readme-streak-stats.vercel.app?user=bernardolm&theme=city_lights&hide_border=true)
+-->
+
+<!--bernardolm/github-readme-stats - Top Languages Card-->
+![Top Languages Card](https://bernardolm-github-readme-stats.vercel.app/api/top-langs?card_width=700&hide_border=true&hide=css,html&langs_count=99&layout=compact&show_icons=true&theme=city_lights&username=bernardolm)
+
+<!--bernardolm/github-readme-stats - WakaTime Stats Card-->
+![WakaTime Stats Card](https://bernardolm-github-readme-stats.vercel.app/api/wakatime?hide_border=true&layout=compact&show_icons=true&theme=city_lights&username=bernardolm)
 
 ---
- 
+
 <!--START_SECTION:waka-->
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C663%20hrs%2026%20mins-blue)
@@ -88,14 +103,14 @@ HTML                     1 repo              █░░░░░░░░░░�
  
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers)
+![followers](https://img.shields.io/github/followers/bernardolm?style=for-the-badge&label=GitHub%20followers)
 
-![GitHub User's stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars)
+![stars](https://img.shields.io/github/stars/bernardolm?style=for-the-badge&label=GitHub%20User's%20stars)
 
-[![](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm)
+[![linkedin](https://img.shields.io/static/v1?logo=linkedin&label=LinkedIn&message=bernardolm&color=0A66C2&style=for-the-badge)](https://www.linkedin.com/in/bernardolm)
 
-[![](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm)
+[![last.fm](https://img.shields.io/static/v1?logo=lastdotfm&label=last.fm&message=bernardolm&color=D51007&style=for-the-badge)](https://www.last.fm/user/bernardolm)
 
-[![](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou)
+[![spotify](https://img.shields.io/static/v1?logo=spotify&label=spotify&message=bernardolou&color=1ED760&style=for-the-badge)](https://open.spotify.com/user/bernardolou)
 
-[![](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
+[![awesome-stars](https://img.shields.io/static/v1?logo=awesomelists&label=My%20awesome%20stars&message=⭐⭐⭐&color=FC60A8&style=for-the-badge)](https://github.com/bernardolm/awesome-stars)
