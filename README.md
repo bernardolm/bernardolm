@@ -24,8 +24,9 @@
 <!--bernardolm/github-readme-stats - Top Languages Card-->
 ![Top Languages Card](https://bernardolm-github-readme-stats.vercel.app/api/top-langs?card_width=700&hide_border=true&hide=css,html&langs_count=99&layout=compact&show_icons=true&theme=city_lights&username=bernardolm)
 
-<!--bernardolm/github-readme-stats - WakaTime Stats Card-->
+<!--bernardolm/github-readme-stats - WakaTime Stats Card- ->
 ![WakaTime Stats Card](https://bernardolm-github-readme-stats.vercel.app/api/wakatime?hide_border=true&layout=compact&show_icons=true&theme=city_lights&username=bernardolm)
+-->
 
 ---
 
