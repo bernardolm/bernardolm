@@ -18,7 +18,7 @@
 ![GitHub Stats Card](https://bernardolm-github-readme-stats.vercel.app/api?card_width=700&count_private=true&hide_border=true&include_all_commits=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=city_lights&username=bernardolm)
 
 <!--bernardolm/github-readme-streak-stats- ->
-![Streak](https://github-com-bernardolm-github-readme-streak-stats.vercel.app?user=bernardolm&theme=city_lights&hide_border=true)
+![Streak](https://bernardolm-github-readme-streak-stats.vercel.app?user=bernardolm&theme=city_lights&hide_border=true)
 -->
 
 <!--bernardolm/github-readme-stats - Top Languages Card-->
