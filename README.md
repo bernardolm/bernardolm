@@ -108,7 +108,7 @@ HTML                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/bernardolm/bernardolm/master/assets/bar_graph.png)
+
 
 
  Last Updated on 2024-04-13 06:04:13 UTC
