@@ -8,7 +8,7 @@ Since then, I've been able to build many things, solving many problems or improv
 
 Some of the studies, tests and codes I did during that time are here.
 
-Nowadays I'm driving technlogogy in [@acao-da-cidadania](https://github.com/acao-da-cidadania)
+I live in Rio de Janeiro and nowadays I'm driving technology in [@acao-da-cidadania](https://github.com/acao-da-cidadania)
 
 ## skills
 
