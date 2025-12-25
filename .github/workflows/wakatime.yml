@@ -12,6 +12,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          DEBUG_LOGGING: "True"
           COMMIT_BY_ME: "True"
           COMMIT_EMAIL: "bernardo.lou@gmail.com"
           COMMIT_USERNAME: "bernardolm"
